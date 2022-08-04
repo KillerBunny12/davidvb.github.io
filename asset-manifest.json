@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/davidvb.github.io/static/css/main.87afa90c.css",
-    "main.js": "/davidvb.github.io/static/js/main.344b1bdb.js",
+    "main.css": "/davidvb.github.io/static/css/main.ba4e2728.css",
+    "main.js": "/davidvb.github.io/static/js/main.9446747a.js",
     "static/js/787.1ed0c42c.chunk.js": "/davidvb.github.io/static/js/787.1ed0c42c.chunk.js",
     "index.html": "/davidvb.github.io/index.html",
-    "main.87afa90c.css.map": "/davidvb.github.io/static/css/main.87afa90c.css.map",
-    "main.344b1bdb.js.map": "/davidvb.github.io/static/js/main.344b1bdb.js.map",
+    "main.ba4e2728.css.map": "/davidvb.github.io/static/css/main.ba4e2728.css.map",
+    "main.9446747a.js.map": "/davidvb.github.io/static/js/main.9446747a.js.map",
     "787.1ed0c42c.chunk.js.map": "/davidvb.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.87afa90c.css",
-    "static/js/main.344b1bdb.js"
+    "static/css/main.ba4e2728.css",
+    "static/js/main.9446747a.js"
   ]
 }
